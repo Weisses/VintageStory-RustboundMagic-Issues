@@ -3,7 +3,7 @@ Issue tracker for the Vintage Story mod Rustbound Magic!
 
 ## Things to keep in mind when using this issue tracker:
 
-1.) !!!IMPORTANT!!! If you are reporting a crash, **PLEASE MAKE SURE TO INCLUDE THE CRASH REPORT**. Just the crash report. I do not want to wade through the last year+ of your client or server logs finding what I think the problem is. 
+1.) !!!IMPORTANT!!! If you are reporting a crash, **PLEASE MAKE SURE TO INCLUDE THE CRASH REPORT**. Just the crash report. I do not want to wade through the last year+ of a client / server logs finding what I think the problem is. Please include at least the whole top part and the first 5+ errors. Or just copy and paste it to the clipboard. 
 
   **Failure to do this could result in the auto closing of the issue.**
 
